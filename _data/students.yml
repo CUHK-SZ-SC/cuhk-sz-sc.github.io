@@ -1,0 +1,70 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: <a target="_blank" href="http://vitowu.net">Chen-Hao Wu</a>
+  photo: chenhaowu.jpg
+  info: Junior, Team Leader
+  email: chenhaowu@link.cuhk.edu.cn
+  number_educ: 1
+  education1: "Major: Computer Science and Engineering"
+
+- name: Wei-Dong Gao
+  photo: weidonggao.jpg
+  info: Junior, Associate Team Leader
+  email: weidonggao@link.cuhk.edu.cn
+  number_educ: 1
+  education1: "Major: Computer Science and Engineering"
+
+- name: Xuan-Chen Wu
+  photo: xuanchenwu.jpg
+  info: Junior, Associate Team Leader
+  email: xuanchenwu@link.cuhk.edu.cn
+  number_educ: 1
+  education1: "Major: Computer Science and Engineering"
+
+- name: Ze-Yin Zhang
+  photo: default.jpg
+  info: Sophomore
+  email: zeyinzhang@link.cuhk.edu.cn
+  number_educ: 1
+  education1: "Major: Computer Science and Engineering"
+
+- name: Hao-Tian Xie
+  photo: default.jpg
+  info: Sophomore
+  email: haotianxie@link.cuhk.edu.cn
+  number_educ: 1
+  education1: "Major: Computer Science and Engineering"
+
+- name: Jie-Kun Yang
+  photo: jiekunyang.png
+  info: Sophomore
+  email: jiekunyang@link.cuhk.edu.cn
+  number_educ: 1
+  education1: "Major: Computer Science and Engineering"
+
+- name: Su-Pei Yang
+  photo: default.jpg
+  info: Sophomore
+  email: supeiyang@link.cuhk.edu.cn
+  number_educ: 1
+  education1: "Major: Computer Science and Engineering"
+
+- name: Hao-Wen Yang
+  photo: default.jpg
+  info: Freshman
+  email: zeyinzhang@link.cuhk.edu.cn
+  number_educ: 0
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="{{ site.url }}{{ site.baseurl }}/joinus">Join Us</a> for more info
+  email: cscg2020@outlook.com
+  number_educ: 0

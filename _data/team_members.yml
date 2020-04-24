@@ -1,0 +1,15 @@
+- name: <a target="_blank" href="http://www.cs.nthu.edu.tw/~ychung/">Prof. Yeh-Ching Chung</a>
+  photo: yehchingchung.jpg
+  info: Professor, Director
+  email: ychung@cuhk.edu.cn
+  number_educ: 3
+  education1: Ph.D., School of Computer & Information Science, Syracuse University
+  education2: M.S., School of Computer & Information Science, Syracuse University
+  education3: B.S., Department of Information Engineering, Chung Yuan Christian University 
+
+- name: Dr. Yong-Gang Li
+  photo: yonggangli.jpg
+  info: Postdoc, Team Advisor
+  email: yonggangli@cuhk.edu.cn
+  number_educ: 1
+  education1: Ph.D., University of Science and Technology of China
