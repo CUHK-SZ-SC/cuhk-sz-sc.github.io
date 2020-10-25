@@ -8,59 +8,72 @@
 #  education3:
 #  education4:
 
-- name: <a target="_blank" href="http://vitowu.net">Chen-Hao Wu</a>
-  photo: chenhaowu.jpg
-  info: Junior, Team Leader
+- name: <a target="_blank" href="http://vitowu.net">Chen-Hao Wu (吴宸浩)</a>
+  photo: chenhaowu.png
+  info: Senior, Team Leader
   email: chenhaowu@link.cuhk.edu.cn
   number_educ: 1
   education1: "Major: Computer Science and Engineering"
 
-- name: Wei-Dong Gao
+- name: Wei-Dong Gao (高炜东)
   photo: weidonggao.jpg
-  info: Junior, Associate Team Leader
+  info: Senior, Associate Team Leader
   email: weidonggao@link.cuhk.edu.cn
   number_educ: 1
   education1: "Major: Computer Science and Engineering"
 
-- name: Xuan-Chen Wu
+- name: Xuan-Chen Wu (吴宣辰)
   photo: xuanchenwu.jpg
-  info: Junior, Associate Team Leader
+  info: Senior, Associate Team Leader
   email: xuanchenwu@link.cuhk.edu.cn
   number_educ: 1
   education1: "Major: Computer Science and Engineering"
 
-- name: Ze-Yin Zhang
-  photo: default.jpg
-  info: Sophomore
+- name: Ze-Yin Zhang (张泽银)
+  photo: zeyinzhang.jpg
+  info: Junior
   email: zeyinzhang@link.cuhk.edu.cn
   number_educ: 1
   education1: "Major: Computer Science and Engineering"
 
-- name: Hao-Tian Xie
-  photo: default.jpg
-  info: Sophomore
+- name: Hao-Tian Xie (谢皓天)
+  photo: haotianxie.jpg
+  info: Junior
   email: haotianxie@link.cuhk.edu.cn
   number_educ: 1
   education1: "Major: Computer Science and Engineering"
 
-- name: Jie-Kun Yang
+- name: Jie-Kun Yang (杨杰焜)
   photo: jiekunyang.png
-  info: Sophomore
+  info: Junior
   email: jiekunyang@link.cuhk.edu.cn
   number_educ: 1
   education1: "Major: Computer Science and Engineering"
 
-- name: Su-Pei Yang
-  photo: default.jpg
-  info: Sophomore
+- name: Su-Pei Yang (杨苏培)
+  photo: supeiyang.jpg
+  info: Junior
   email: supeiyang@link.cuhk.edu.cn
   number_educ: 1
   education1: "Major: Computer Science and Engineering"
 
-- name: Hao-Wen Yang
+- name: Xiao-Nan Qi (漆小楠)
+  photo: xiaonanqi.jpg
+  info: Junior
+  email: xiaonanqi@link.cuhk.edu.cn
+  number_educ: 1
+  education1: "Major: Computer Science and Engineering"
+
+- name: Hao-Wen Yang (杨皓文)
   photo: default.jpg
-  info: Freshman
-  email: zeyinzhang@link.cuhk.edu.cn
+  info: Sophomore
+  email: haowenyang@link.cuhk.edu.cn
+  number_educ: 0
+
+- name: Shu-Qi Ke (柯舒麒)
+  photo: default.jpg
+  info: Sophomore
+  email: shuqike@link.cuhk.edu.cn
   number_educ: 0
 
 - name: "This could be you !"
