@@ -64,18 +64,6 @@
   number_educ: 1
   education1: "Major: Computer Science and Engineering"
 
-- name: Hao-Wen Yang (杨皓文)
-  photo: default.jpg
-  info: Sophomore
-  email: haowenyang@link.cuhk.edu.cn
-  number_educ: 0
-
-- name: Shu-Qi Ke (柯舒麒)
-  photo: default.jpg
-  info: Sophomore
-  email: shuqike@link.cuhk.edu.cn
-  number_educ: 0
-
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="cuhksz-hpc.github.io/joinus">Join Us</a> for more info
